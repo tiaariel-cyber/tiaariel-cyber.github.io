@@ -1,0 +1,31 @@
+body {
+    background-color: #ddc9b7;
+    margin: 30px;
+}
+
+h1 {
+    color: #ab3555;
+    font-family: fantasy;
+}
+
+h2 {
+    color: #0dc5f3;
+}
+
+p {
+    color: #322408;
+    font-family: Arial, sans-serif;
+}
+
+li {
+    color:#322408;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    background-color: #ab3555;
+    border: 2px solid #322408;
+    padding: 20px;
+    margin: 20px;
+}
